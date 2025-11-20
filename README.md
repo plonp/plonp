@@ -1,4 +1,4 @@
-**Designer, Web Developer & Game Developer.**
+**Designer, Web Developer, Game Developer.**
 
-- My Game Development Works [HOMS.PAGES.DEV](https://homs.pages.dev)
-- Design & Develop website for [SPORTSYNC](https://sportsync.pages.dev)
+- My game development works at [HOMS.PAGES.DEV](https://homs.pages.dev)
+- Designed & develop website for [SPORTSYNC](https://sportsync.pages.dev)
