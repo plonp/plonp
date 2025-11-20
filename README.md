@@ -1,6 +1,4 @@
-I am a
+**Designer, Web Developer & Game Developer.**
 
-Designer, Web Developer & Game Developer
-
-[homs.pages.dev](https://homs.pages.dev)
-[SportSync](https://sportsync.pages.dev)
+- My Game Development Works [HOMS.PAGES.DEV](https://homs.pages.dev)
+- Design & Develop website for [SPORTSYNC](https://sportsync.pages.dev)
