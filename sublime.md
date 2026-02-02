@@ -1,4 +1,5 @@
-// Key Bindings
+# Key Bindings
+```JS
 [
 	{"keys": ["ctrl+tab"], "command": "next_view" },
 	{"keys": ["ctrl+shift+tab"], "command": "prev_view" },
@@ -15,6 +16,7 @@
 	{"keys": ["alt+shift+l"], "command": "move", "args": {"by": "words", "forward": true} },
 	{"keys": ["ctrl+alt+o"], "command": "prompt_add_folder"},
 ]
+```
 
 // Builds (Tools > Build System > New Build System...)
 	GMS2igor.sublime-build
