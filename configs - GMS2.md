@@ -17,6 +17,8 @@ Igor.exe /project=%projectpath% /rp=%runtimepath% /lf=%licensepath% Windows Run
 exit
 ```
 
+---
+
 ### Builds (Tools > Build System > New Build System...)
 #### GMS2igor.sublime-build
 ```
