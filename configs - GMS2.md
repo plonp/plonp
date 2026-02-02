@@ -19,7 +19,7 @@ exit
 
 ---
 
-### Builds (Tools > Build System > New Build System...)
+### SUBLIME Builds (Tools > Build System > New Build System...)
 #### GMS2igor.sublime-build
 ```
 {
