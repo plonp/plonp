@@ -19,7 +19,7 @@
 ```
 
 ### Builds (Tools > Build System > New Build System...)
-GMS2igor.sublime-build
+#### GMS2igor.sublime-build
 ```
 {
 	"working_dir" : "$folder", // $folder is first folder in the Side Bar
@@ -29,7 +29,7 @@ GMS2igor.sublime-build
 ```
 
 ### Packages (Ctrl + Shift + P > Install Package)
-* Buffer Scroll (https://github.com/titoBouzout/BufferScroll)
+* [Buffer Scroll](https://github.com/titoBouzout/BufferScroll)
 * GameMaker Language (GML) Bundle
 * JavaScript Completions
 * Babel Snippets // Javascript & React Snippet
