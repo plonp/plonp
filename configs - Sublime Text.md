@@ -20,7 +20,7 @@
 
 ### Builds (Tools > Build System > New Build System...)
 #### GMS2igor.sublime-build
-```
+```JS
 {
 	"working_dir" : "$folder", // $folder is first folder in the Side Bar
 	"cmd" : ["start", "build.bat"], // create & set build.bat in GMS2 project folder
