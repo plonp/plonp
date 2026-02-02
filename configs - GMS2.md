@@ -4,7 +4,7 @@
 C:\ProgramData\GameMakerStudio2\Cache\runtimes\runtime-2024.14.3.260\bin\igor\windows\x64
 ```
 
-### To run Build command with External Text Editor, create batch file build.bat in <project folder path>
+### To run GMS2 project with External Text Editor (e.g. Sublime), create batch file build.bat in project folder
 ```
 @echo off
 
