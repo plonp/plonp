@@ -18,6 +18,28 @@
 ]
 ```
 
+### (Preferences > Settings)
+```JS
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_size": 11,
+	"font_face": "calibri",
+	"tab_size": 8,
+	"caret_style" : "smooth",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": false,
+	"update_check": false,
+	"theme": "Default Dark.sublime-theme",
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Default Dark.sublime-theme",
+	"word_wrap": false,
+}
+```
+
+
 ### Builds (Tools > Build System > New Build System...)
 #### GMS2igor.sublime-build
 ```JS
