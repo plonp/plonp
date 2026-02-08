@@ -21,6 +21,7 @@
 ### (Preferences > Settings)
 ```JS
 {
+	"hardware_acceleration": "opengl",
 	"color_scheme": "Monokai.sublime-color-scheme",
 	"font_size": 11,
 	"font_face": "calibri",
