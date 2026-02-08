@@ -21,17 +21,26 @@
 ### (Preferences > Settings)
 ```JS
 {
-	"hardware_acceleration": "opengl",
+	// "hardware_acceleration": "opengl",
+	// "gpu_window_buffer": true,
+	// "overlay_scroll_bars": "enabled",
 	"color_scheme": "Monokai.sublime-color-scheme",
-	"font_size": 11,
+	"translate_spaces_to_tabs": true,
+	"tab_size" : 8,
+	"file_tab_style" : "rounded",
+	"inactive_sheet_dimming": true,
+	"bold_folder_labels": true,
 	"font_face": "calibri",
-	"tab_size": 8,
-	"caret_style" : "smooth",
+	"font_size": 11,
+	"caret_style" : "smooth", // solid, smooth
 	"ignored_packages":
 	[
 		"Vintage",
 	],
+
 	"index_files": false,
+	"index_exclude_patterns": ["*.*", "*"],
+	
 	"update_check": false,
 	"theme": "Default Dark.sublime-theme",
 	"dark_theme": "Adaptive.sublime-theme",
