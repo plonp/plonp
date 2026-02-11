@@ -63,8 +63,6 @@
 ### Packages (Ctrl + Shift + P > Install Package)
 * [Terminus](https://github.com/randy3k/Terminus)
 * [Buffer Scroll](https://github.com/titoBouzout/BufferScroll)
-* GameMaker Language (GML) Bundle 
+* GameMaker Language (GML) Bundle
 * JavaScript Completions
 * Babel Snippets // Javascript & React Snippet
-
-test
