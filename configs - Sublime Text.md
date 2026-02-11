@@ -60,7 +60,7 @@
 }
 ```
 
-### Packages (Ctrl + Shift + P > Install Package)
+### Packages (Ctrl + Shift + P > Install Package) (Manual Installation : Preferences > Browse Package > Paste Package Folder)
 * [Terminus](https://github.com/randy3k/Terminus)
 * [Buffer Scroll](https://github.com/titoBouzout/BufferScroll)
 * GameMaker Language (GML) Bundle
