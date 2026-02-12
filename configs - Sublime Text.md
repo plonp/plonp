@@ -49,6 +49,27 @@
 }
 ```
 
+### (Preferences > Customize Color Scheme)
+```JS
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"variables":
+	{
+		"red2": "hsl(350, 75%, 65%)",
+		"black3": "hsl(200, 30%, 12%)",
+	},
+	"globals":
+	{
+	},
+	"rules":
+	[		
+		{
+			"foreground": "#fff",
+			"scope": "quokka"
+		},
+	],
+}
+```
 
 ### Builds (Tools > Build System > New Build System...)
 #### GMS2igor.sublime-build
