@@ -26,6 +26,7 @@
 	"overlay_scroll_bars": "enabled",
 	"color_scheme": "Monokai.sublime-color-scheme",
 	"translate_spaces_to_tabs": true,
+	"detect_indentation": true,
 	"tab_size" : 8,
 	"file_tab_style" : "rounded",
 	"inactive_sheet_dimming": true,
