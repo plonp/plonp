@@ -47,6 +47,11 @@
 	"dark_theme": "Adaptive.sublime-theme",
 	"light_theme": "Default Dark.sublime-theme",
 	"word_wrap": false,
+
+	// Adjust Indexing
+		// "file_exclude_patterns": ["*.min.js", "*.min.css", "*.map"],
+		"binary_file_patterns": ["*.yy"],
+		"folder_exclude_patterns": ["objects", "rooms"],
 }
 ```
 
