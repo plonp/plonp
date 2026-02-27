@@ -1,3 +1,9 @@
+### Keyboard Shortcuts
+```JS
+Ctrl + Shift + Space 	// Expand Selection in Block Scope
+Ctrl + L 				// Select Entire Line
+````
+
 ### Key Bindings
 ```JS
 [
