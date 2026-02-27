@@ -4,6 +4,13 @@ Ctrl + Shift + Space 	// Expand Selection in Block Scope
 Ctrl + L 				// Select Entire Line
 ````
 
+### Packages (Ctrl + Shift + P > Install Package) (Manual Installation : Preferences > Browse Package > Paste Package Folder)
+* [Terminus](https://github.com/randy3k/Terminus)
+* [Buffer Scroll](https://github.com/titoBouzout/BufferScroll)
+* GameMaker Language (GML) Bundle
+* JavaScript Completions
+* Babel Snippets // Javascript & React Snippet
+
 ### Key Bindings
 ```JS
 [
@@ -92,10 +99,3 @@ Ctrl + L 				// Select Entire Line
 	"shell" : true
 }
 ```
-
-### Packages (Ctrl + Shift + P > Install Package) (Manual Installation : Preferences > Browse Package > Paste Package Folder)
-* [Terminus](https://github.com/randy3k/Terminus)
-* [Buffer Scroll](https://github.com/titoBouzout/BufferScroll)
-* GameMaker Language (GML) Bundle
-* JavaScript Completions
-* Babel Snippets // Javascript & React Snippet
