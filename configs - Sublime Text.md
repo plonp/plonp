@@ -9,7 +9,6 @@ Ctrl + L 				// Select Entire Line
 * [Buffer Scroll](https://github.com/titoBouzout/BufferScroll)
 * GameMaker Language (GML) Bundle
 * [Javascript Completions](https://github.com/pichillilorenzo/JavaScript-Completions)
-* JavaScript Completions
 * Babel Snippets // Javascript & React Snippet
 
 ### Key Bindings
