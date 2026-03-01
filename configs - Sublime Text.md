@@ -28,7 +28,7 @@ Ctrl + L 				// Select Entire Line
 	{"keys": ["alt+shift+j"], "command": "move", "args": {"by": "words", "forward": false} },
 	{"keys": ["alt+shift+l"], "command": "move", "args": {"by": "words", "forward": true} },
 	{"keys": ["ctrl+alt+o"], "command": "prompt_add_folder"},
-	{ "keys": ["ctrl+alt+c"], "command": "close_folder_list"},
+	{"keys": ["ctrl+alt+c"], "command": "close_folder_list"},
 ]
 ```
 
