@@ -29,10 +29,10 @@ Ctrl + L 				// Select Entire Line
 	{"keys": ["alt+shift+l"], "command": "move", "args": {"by": "words", "forward": true} },
 	{"keys": ["ctrl+alt+o"], "command": "prompt_add_folder"},
 	{"keys": ["ctrl+alt+c"], "command": "close_folder_list"},
-	{ "keys": ["ctrl+alt+left"], "command": "move_to", "args": {"to": "bol", "extend":false}},
-	{ "keys": ["ctrl+alt+right"], "command": "move_to", "args": {"to": "eol", "extend":false}},
-	{ "keys": ["ctrl+alt+shift+left"], "command": "move_to", "args": {"to": "bol", "extend":true}},
-	{ "keys": ["ctrl+alt+shift+right"], "command": "move_to", "args": {"to": "eol", "extend":true}},
+	{"keys": ["ctrl+alt+left"], "command": "move_to", "args": {"to": "bol", "extend":false}},
+	{"keys": ["ctrl+alt+right"], "command": "move_to", "args": {"to": "eol", "extend":false}},
+	{"keys": ["ctrl+alt+shift+left"], "command": "move_to", "args": {"to": "bol", "extend":true}},
+	{"keys": ["ctrl+alt+shift+right"], "command": "move_to", "args": {"to": "eol", "extend":true}},
 ]
 ```
 
