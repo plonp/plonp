@@ -33,6 +33,7 @@ Ctrl + L 				// Select Entire Line
 	{"keys": ["ctrl+alt+right"], "command": "move_to", "args": {"to": "eol", "extend":false}},
 	{"keys": ["ctrl+alt+shift+left"], "command": "move_to", "args": {"to": "bol", "extend":true}},
 	{"keys": ["ctrl+alt+shift+right"], "command": "move_to", "args": {"to": "eol", "extend":true}},
+	{"keys": ["ctrl+shift+r"], "command": "reindent", "args": {"single_line": false}},
 ]
 ```
 
