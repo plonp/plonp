@@ -2,6 +2,9 @@
 ```JS
 Ctrl + Shift + Space 	// Expand Selection in Block Scope
 Ctrl + L 				// Select Entire Line
+Ctrl + K, Ctrl + 1		// Fold all codes to Level 1
+Ctrl + K, Ctrl + J 		// Unfold all code, expanding all folded regions.
+Ctrl + U 				// Undo selection with Ctrl + D
 ````
 
 ### Packages (Ctrl + Shift + P > Install Package) (Manual Installation : Preferences > Browse Package > Paste Package Folder)
