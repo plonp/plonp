@@ -10,7 +10,7 @@ Ctrl + U 				// Undo selection with Ctrl + D
 ### Packages (Ctrl + Shift + P > Install Package) (Manual Installation : Preferences > Browse Package > Paste Package Folder)
 * [Terminus](https://github.com/randy3k/Terminus)
 * [Buffer Scroll](https://github.com/titoBouzout/BufferScroll)
-* [GameMaker Language (GML) Bundle](https://github.com/uduse/Sublime-GameMaker-Studio-Language-Bundle)
+* [GameMaker Language (GML) Bundle](https://github.com/drama-ostrich/Sublime-GameMaker-Studio-Language-Bundle)
 * [Javascript Completions](https://github.com/pichillilorenzo/JavaScript-Completions)
 * Babel Snippets // Javascript & React Snippet
 
