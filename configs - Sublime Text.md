@@ -69,6 +69,7 @@ Ctrl + U 				// Undo selection with Ctrl + D
 	"dark_theme": "Adaptive.sublime-theme",
 	"light_theme": "Default Dark.sublime-theme",
 	"word_wrap": false,
+	"show_panel_on_build": false,
 
 	// Adjust Indexing
 		// "file_exclude_patterns": ["*.min.js", "*.min.css", "*.map"],
