@@ -21,6 +21,7 @@ Ctrl + U 				// Undo selection with Ctrl + D
 	{"keys": ["ctrl+shift+tab"], "command": "prev_view" },
 	{"keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
 	{"keys": ["f5"], "command": "terminus_open", "args" : {"cmd": "cmd.exe", "cwd": "${file_path:${folder}}", "panel_name": "Terminus"}},
+	{"keys": ["escape"], "command": "terminus_close"},
 	{"keys": ["ctrl+shift+e"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}},
 	{"keys": ["ctrl+shift+pagedown"], "command": "next_view",},
 	{"keys": ["ctrl+shift+pageup"], "command": "prev_view",},
