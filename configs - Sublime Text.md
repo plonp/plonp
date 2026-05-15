@@ -7,6 +7,12 @@ Ctrl + K, Ctrl + J 		// Unfold all code, expanding all folded regions.
 Ctrl + U 				// Undo selection with Ctrl + D
 ````
 
+### Console Functions
+```JS
+sublime.log_input(True)			// See specific key name Sublime Text detects
+sublime.log_commands(True)		// See internal command a shortcut is actually running 
+````
+
 ### Packages (Ctrl + Shift + P > Install Package) (Manual Installation : Preferences > Browse Package > Paste Package Folder)
 * [Terminus](https://github.com/randy3k/Terminus)
 * [Buffer Scroll](https://github.com/titoBouzout/BufferScroll)
@@ -21,7 +27,7 @@ Ctrl + U 				// Undo selection with Ctrl + D
 	{"keys": ["ctrl+shift+tab"], "command": "prev_view" },
 	{"keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
 	{"keys": ["f5"], "command": "terminus_open", "args" : {"cmd": "cmd.exe", "cwd": "${file_path:${folder}}", "panel_name": "Terminus"}},
-	{"keys": ["escape"], "command": "terminus_close"},
+	{"keys": ["shift+f5"], "command": "terminus_close"},
 	{"keys": ["ctrl+shift+e"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}},
 	{"keys": ["ctrl+shift+pagedown"], "command": "next_view",},
 	{"keys": ["ctrl+shift+pageup"], "command": "prev_view",},
