@@ -32,27 +32,32 @@
 ### settings.jon
 ```
 {
-    "git.autofetch": true,
-    "git.confirmSync": false,
-    "explorer.fileNesting.patterns": {
-        "*.ts": "${capture}.js",
-        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
-        "*.jsx": "${capture}.js",
-        "*.tsx": "${capture}.ts",
-        "tsconfig.json": "tsconfig.*.json",
-        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, bun.lock",
-        "*.sqlite": "${capture}.${extname}-*",
-        "*.db": "${capture}.${extname}-*",
-        "*.sqlite3": "${capture}.${extname}-*",
-        "*.db3": "${capture}.${extname}-*",
-        "*.sdb": "${capture}.${extname}-*",
-        "*.s3db": "${capture}.${extname}-*"
-    },
-    "files.autoSave": "afterDelay",
-    "editor.insertSpaces": false,
-    "editor.detectIndentation": false,
-    "editor.tabSize": 8,
-    "editor.minimap.enabled": false,
-    "chat.mcp.gallery.enabled": true
+	"workbench.startupEditor": "none",
+	"workbench.colorTheme": "Dark Modern",
+	"workbench.iconTheme": "vs-minimal",
+	"workbench.colorCustomizations": {
+		"editorIndentGuide.background1": "#ffffff02",
+		"editorIndentGuide.activeBackground1": "#ffffff16",
+	},
+
+	"editor.fontFamily": "calibri, Consolas, 'Courier New', monospace",
+	"editor.fontSize": 16,
+	"editor.minimap.enabled": false,
+	// "editor.guides.indentation": false,
+	"editor.tabSize": 8,
+	"editor.insertSpaces": false, // Use spaces for indentation
+	"editor.detectIndentation": true, // Enable automatic indentation detection
+	"editor.wordWrap": "off",
+	// "editor.formatOnSave": true, // Enable format on save
+	// "editor.formatOnType": true, // Enable format on type
+	// "editor.formatOnPaste": true, // Enable format on paste
+
+	"files.autoSave": "afterDelay", // Enable auto save after a delay
+	"files.autoSaveDelay": 1000, // Set the delay for auto save (in milliseconds)
+	"files.trimTrailingWhitespace": true, // Trim trailing whitespace on save
+	"files.insertFinalNewline": false, // Insert final newline on save
+	// "files.trimFinalNewlines": true, // Trim final newlines on save
+
+	"chat.mcp.gallery.enabled": true
 }
 ```
