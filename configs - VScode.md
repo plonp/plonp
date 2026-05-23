@@ -12,7 +12,7 @@
 - list of json commands for shortcut // keybindings.json
 
 ### keybindings.json
-```
+```JS
 // Place your key bindings in this file to override the defaults
 [
 	{
@@ -30,7 +30,7 @@
 
 
 ### settings.jon
-```
+```JS
 {
 	"workbench.startupEditor": "none",
 	"workbench.colorTheme": "Dark Modern",
