@@ -15,22 +15,13 @@
 ```JS
 // Place your key bindings in this file to override the defaults
 [
-	{
-		"key": "ctrl+tab",
-		"command": "workbench.action.nextEditor"
-	},
-	{
-		"key": "ctrl+shift+tab",
-		"command": "workbench.action.previousEditor"
-	},
-	{
-		"key": "ctrl+shift+backspace",
-		"command": "editor.action.deleteLines"
-	}
+	{"key": "ctrl+tab", "command": "workbench.action.nextEditor"},
+	{"key": "ctrl+shift+tab", "command": "workbench.action.previousEditor"},
+	{"key": "ctrl+shift+backspace", "command": "deleteAllLeft"},
+	{"key": "ctrl+shift+delete", "command": "deleteAllRight"}
 ]
-
-- //how to set indentation to Tabs instead of Spaces
 ```
+//how to set indentation to Tabs instead of Spaces
 
 
 ### settings.jon
