@@ -13,7 +13,6 @@
 
 ### keybindings.json
 ```JS
-// Place your key bindings in this file to override the defaults
 [
 	{"key": "ctrl+tab", "command": "workbench.action.nextEditor"},
 	{"key": "ctrl+shift+tab", "command": "workbench.action.previousEditor"},
