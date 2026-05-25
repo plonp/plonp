@@ -17,7 +17,8 @@
 	{"key": "ctrl+tab", "command": "workbench.action.nextEditor"},
 	{"key": "ctrl+shift+tab", "command": "workbench.action.previousEditor"},
 	{"key": "ctrl+shift+backspace", "command": "deleteAllLeft"},
-	{"key": "ctrl+shift+delete", "command": "deleteAllRight"}
+	{"key": "ctrl+shift+delete", "command": "deleteAllRight"},
+	{"key": "ctrl+shift+/", "command": "editor.action.blockComment", "when": "editorTextFocus && !editorReadonly"},
 ]
 ```
 //how to set indentation to Tabs instead of Spaces
