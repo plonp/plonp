@@ -43,15 +43,15 @@
 	"editor.insertSpaces": false, // Use spaces for indentation
 	"editor.detectIndentation": true, // Enable automatic indentation detection
 	"editor.wordWrap": "off",
-	// "editor.formatOnSave": true, // Enable format on save
-	// "editor.formatOnType": true, // Enable format on type
-	// "editor.formatOnPaste": true, // Enable format on paste
+	// "editor.formatOnSave": true,
+	// "editor.formatOnType": true,
+	// "editor.formatOnPaste": true,
 
 	"files.autoSave": "afterDelay", // Enable auto save after a delay
-	"files.autoSaveDelay": 1000, // Set the delay for auto save (in milliseconds)
-	"files.trimTrailingWhitespace": true, // Trim trailing whitespace on save
-	"files.insertFinalNewline": false, // Insert final newline on save
-	// "files.trimFinalNewlines": true, // Trim final newlines on save
+	"files.autoSaveDelay": 1000,
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": false,
+	// "files.trimFinalNewlines": true,
 
 	"chat.mcp.gallery.enabled": true
 }
