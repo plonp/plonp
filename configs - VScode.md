@@ -19,6 +19,7 @@
 	{"key": "ctrl+shift+backspace", "command": "deleteAllLeft"},
 	{"key": "ctrl+shift+delete", "command": "deleteAllRight"},
 	{"key": "ctrl+shift+/", "command": "editor.action.blockComment", "when": "editorTextFocus && !editorReadonly"},
+	{"key": "alt+l", "command": "workbench.files.action.collapseExplorerFolders", "when": "editorTextFocus"},
 	{"key": "ctrl+alt+c", "command": "github.copilot.completions.toggle"}, // Toggle Copilot Inline Suggestion On/Off
 ]
 ```
