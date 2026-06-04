@@ -36,6 +36,7 @@
 		"editorIndentGuide.activeBackground1": "#ffffff16",
 	},
 
+	"editor.autoIndent": "none", // Stop automatic indent
 	"editor.fontFamily": "calibri, Consolas, 'Courier New', monospace",
 	"editor.fontSize": 16,
 	"editor.minimap.enabled": false,
