@@ -19,6 +19,7 @@
 	{"key": "ctrl+shift+backspace", "command": "deleteAllLeft"},
 	{"key": "ctrl+shift+delete", "command": "deleteAllRight"},
 	{"key": "ctrl+shift+/", "command": "editor.action.blockComment", "when": "editorTextFocus && !editorReadonly"},
+	{"key": "ctrl+alt+c", "command": "github.copilot.completions.toggle"}, // Toggle Copilot Inline Suggestion On/Off
 ]
 ```
 //how to set indentation to Tabs instead of Spaces
@@ -54,6 +55,6 @@
 	// "files.trimFinalNewlines": true,
 
 	"chat.mcp.gallery.enabled": true,
-	"terminal.integrated.fontFamily": "monospace" // Use a monospace font for the terminal
+	"terminal.integrated.fontFamily": "monospace" // Use a monospace font for the terminal (better readability)
 }
 ```
