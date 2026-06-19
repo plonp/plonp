@@ -24,7 +24,7 @@
 	{"key": "shift+alt+w", "command": "editor.emmet.action.wrapWithAbbreviation"},
 ]
 ```
-//how to set indentation to Tabs instead of Spaces
+// how to set indentation to Tabs instead of Spaces
 
 
 ### settings.jon
