@@ -37,6 +37,7 @@
 		"editorIndentGuide.background1": "#ffffff02",
 		"editorIndentGuide.activeBackground1": "#ffffff16",
 	},
+	"editor.colorDecorators": false,
 
 	"editor.autoIndent": "keep", // ( none | keep | brackets | advanced | full )
 	"editor.formatOnType": true,
