@@ -22,6 +22,10 @@
 	{"key": "alt+l", "command": "workbench.files.action.collapseExplorerFolders", "when": "editorTextFocus"},
 	{"key": "ctrl+alt+c", "command": "github.copilot.completions.toggle"}, // Toggle Copilot Inline Suggestion On/Off
 	{"key": "shift+alt+w", "command": "editor.emmet.action.wrapWithAbbreviation"},
+	{"key": "escape", "command": "hideSuggestWidget", "when": "suggestWidgetVisible && textInputFocus"},
+
+	{"key": "ctrl+'", "command": "chatgpt.addToThread"},
+	{"key": "ctrl+alt+'", "command": "chatgpt.openCommandMenu"},
 ]
 ```
 // how to set indentation to Tabs instead of Spaces
