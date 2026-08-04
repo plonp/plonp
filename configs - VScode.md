@@ -24,6 +24,7 @@
 	{"key": "shift+alt+w", "command": "editor.emmet.action.wrapWithAbbreviation"},
 	{"key": "escape", "command": "hideSuggestWidget", "when": "suggestWidgetVisible && textInputFocus"},
 
+	{"key": "ctrl+shift+'", "command": "chatgpt.openSidebar"},
 	{"key": "ctrl+'", "command": "chatgpt.addToThread"},
 	{"key": "ctrl+alt+'", "command": "chatgpt.openCommandMenu"},
 ]
