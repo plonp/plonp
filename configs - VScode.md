@@ -23,6 +23,7 @@
 	{"key": "ctrl+alt+c", "command": "github.copilot.completions.toggle"}, // Toggle Copilot Inline Suggestion On/Off
 	{"key": "shift+alt+w", "command": "editor.emmet.action.wrapWithAbbreviation"},
 	{"key": "escape", "command": "hideSuggestWidget", "when": "suggestWidgetVisible && textInputFocus"},
+	{"key": "ctrl+e", "command": "editor.emmet.action.matchTag", "when": "editorTextFocus && !editorReadonly"},
 
 	{"key": "ctrl+shift+'", "command": "chatgpt.openSidebar"},
 	{"key": "ctrl+'", "command": "chatgpt.addToThread"},
