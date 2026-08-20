@@ -25,9 +25,8 @@
 	{"key": "escape", "command": "hideSuggestWidget", "when": "suggestWidgetVisible && textInputFocus"},
 	{"key": "ctrl+e", "command": "editor.emmet.action.matchTag", "when": "editorTextFocus && !editorReadonly"},
 
-	{"key": "ctrl+shift+'", "command": "chatgpt.openSidebar"},
-	{"key": "ctrl+'", "command": "chatgpt.addToThread"},
-	{"key": "ctrl+alt+'", "command": "chatgpt.openCommandMenu"},
+	{"key": "ctrl+shift+;", "command": "chatgpt.openSidebar"},
+	{"key": "ctrl+;", "command": "chatgpt.addToThread"},
 ]
 ```
 // how to set indentation to Tabs instead of Spaces
