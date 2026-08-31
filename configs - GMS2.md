@@ -4,7 +4,7 @@
 C:\ProgramData\GameMakerStudio2\Cache\runtimes\runtime-2024.14.3.260\bin\igor\windows\x64
 ```
 
-### To run GMS2 project with External Text Editor (e.g. Sublime), create batch file build.bat in project folder
+### External IGOR runner with Sublime Text 3 (save this as Build file with .bat extension) (run in terminal "start build.bat")
 ```
 @echo off
 
