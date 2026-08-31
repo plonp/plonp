@@ -30,4 +30,6 @@ exit
 ```
 
 ### VScode IGOR runner (as Shortcut Key) (create build.bat in project folder)
+```
 {"key": "ctrl+alt+c", "command": "workbench.action.terminal.sendSequence", "args" : {"text": "start build.bat\u000d"}} // send command to terminal "start build.bat" file \u000d is the enter key
+```
