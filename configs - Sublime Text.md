@@ -19,6 +19,7 @@ sublime.log_commands(True)		// See internal command a shortcut is actually runni
 * [GameMaker Language (GML) Bundle](https://github.com/drama-ostrich/Sublime-GameMaker-Studio-Language-Bundle)
 * [Javascript Completions](https://github.com/pichillilorenzo/JavaScript-Completions)
 * Babel Snippets // Javascript & React Snippet
+* [GameMaker Language - Syntax Support](https://marketplace.visualstudio.com/items?itemName=ScaV.gml-language-support-syntax-user-functions)
 
 ### Key Bindings
 ```JS
