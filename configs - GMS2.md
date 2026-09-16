@@ -33,3 +33,6 @@ exit
 ```
 {"key": "ctrl+alt+z", "command": "workbench.action.terminal.sendSequence", "args" : {"text": "start build.bat\u000d"}} // send command to terminal "start build.bat" file \u000d is the enter key
 ```
+
+### VScode Extensions
+* [GameMaker Language - Syntax Support](https://marketplace.visualstudio.com/items?itemName=ScaV.gml-language-support-syntax-user-functions)
