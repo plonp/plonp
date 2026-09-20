@@ -66,6 +66,10 @@
 	"files.insertFinalNewline": false,
 	// "files.trimFinalNewlines": true,
 
+	// GameMaker Studio related
+	"files.exclude": { "**/*.yy": true },
+	"search.exclude": { "**/*.yy": true },
+
 	"chat.mcp.gallery.enabled": true,
 	"terminal.integrated.fontFamily": "monospace" // Use a monospace font for the terminal (better readability)
 }
