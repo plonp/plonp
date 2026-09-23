@@ -28,6 +28,12 @@
 
 	{"key": "ctrl+shift+;", "command": "chatgpt.openSidebar"},
 	{"key": "ctrl+;", "command": "chatgpt.addToThread"},
+
+	{"key": "ctrl+shift+'", "command": "claude-vscode.editor.openLast"},
+	{"key": "ctrl+'", "command": "claude-vscode.insertAtMention"},
+
+	{"key": "ctrl+shift+l", "command": "antigravity.toggleChatFocus"},
+	{"key": "ctrl+l", "command": "antigravity.insertTerminalSnippet", "when": "false"},
 ]
 ```
 // how to set indentation to Tabs instead of Spaces
