@@ -25,6 +25,7 @@
 	{"key": "escape", "command": "hideSuggestWidget", "when": "suggestWidgetVisible && textInputFocus"},
 	{"key": "ctrl+e", "command": "editor.emmet.action.matchTag", "when": "editorTextFocus && !editorReadonly"},
 	{"key": "ctrl+alt+c", "command": "workbench.action.terminal.sendSequence", "args" : {"text": "start build.bat\u000d"}} // send command to terminal "stat build.bat" file \u000d is the enter key
+	{"key": "ctrl+alt+q", "command": "workbench.action.terminal.sendSequence", "args" : {"text": "cmd /c build.bat\u000d"}}, // execute file inside vscode terminal instead of opening new cmd window
 
 	{"key": "ctrl+shift+;", "command": "chatgpt.openSidebar"},
 	{"key": "ctrl+;", "command": "chatgpt.addToThread"},
