@@ -34,7 +34,7 @@
 	{"key": "ctrl+'", "command": "claude-vscode.insertAtMention"},
 
 	{"key": "ctrl+shift+l", "command": "antigravity.toggleChatFocus"},
-	{"key": "ctrl+l","command": "antigravity.insertTerminalSnippet","when": "false"},
+	{"key": "ctrl+l","command": "antigravity.insertSnippet"},
 	{"key": "ctrl+l", "command": "-antigravity.toggleChatFocus", "when": "antigravity.chatFocused"},
 ]
 ```
