@@ -75,8 +75,9 @@
 	// "files.trimFinalNewlines": true,
 
 	// GameMaker Studio related
-	"files.exclude": { "**/*.yy": true },
-	"search.exclude": { "**/*.yy": true },
+	"files.exclude": { "**/*.yy": true, "**/*.yyp": true, "**/*.resource_order": true },
+	"search.exclude": { "**/*.yy": true, "**/*.yyp": true, "**/*.resource_order": true },
+	"files.watcherExclude": { "**/*.yy": true, "**/*.yyp": true, "**/*.resource_order": true },
 
 	"chat.mcp.gallery.enabled": true,
 	"terminal.integrated.fontFamily": "monospace" // Use a monospace font for the terminal (better readability)
