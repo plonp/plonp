@@ -8,7 +8,7 @@ C:\ProgramData\GameMakerStudio2\Cache\runtimes\runtime-2024.14.3.260\bin\igor\wi
 ```
 @echo off
 
-set projectpath="<project folder path>\projectname.yyp"
+set projectpath="%~dp0\projectname.yyp"
 set runtimepath="C:\ProgramData\GameMakerStudio2\Cache\runtimes\runtime-2024.14.3.260"
 set licensepath="C:\Users\<user>\AppData\Roaming\GameMakerStudio2\<user license number>\license.plist"
 
