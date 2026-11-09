@@ -11,8 +11,9 @@ C:\ProgramData\GameMakerStudio2\Cache\runtimes\runtime-2024.14.3.260\bin\igor\wi
 set projectpath="%~dp0\projectname.yyp"
 set runtimepath="C:\ProgramData\GameMakerStudio2\Cache\runtimes\runtime-2024.14.3.260"
 set licensepath="C:\Users\<user>\AppData\Roaming\GameMakerStudio2\<user license number>\license.plist"
+set prefabspath="C:\ProgramData\GameMakerStudio2\Prefabs"
 
-Igor.exe /project=%projectpath% /rp=%runtimepath% /lf=%licensepath% Windows Run
+Igor.exe /prefabs=%prefabspath% /project=%projectpath% /rp=%runtimepath% /lf=%licensepath% Windows Run
 
 exit
 ```
